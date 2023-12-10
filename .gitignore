@@ -1,0 +1,6 @@
+out/
+
+# Folders
+.idea
+.vscode
+.DS_Store
